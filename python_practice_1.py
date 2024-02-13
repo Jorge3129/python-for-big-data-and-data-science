@@ -1,0 +1,1 @@
+print("Heorhii Sanchenko, AI-2024")
